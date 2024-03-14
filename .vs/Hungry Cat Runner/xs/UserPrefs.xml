@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{6F117F46-4672-2846-ECD5-10447117859C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Snowconesolid Assets/Crazy Cats Toon Pack/Snowconesolid Assets ReadMe.txt">
+    <Files>
+      <File FileName="Assets/Snowconesolid Assets/Crazy Cats Toon Pack/Snowconesolid Assets ReadMe.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hungry Cat Runner" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7a8a92da-a7c7-477e-ae22-5f8a8e01b3ef" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
